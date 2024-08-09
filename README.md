@@ -17,9 +17,11 @@ Ejecuta el Juego:
 Abre una terminal o el símbolo del sistema.
 Navega al directorio game dentro del repositorio clonado.
 Ejecuta el script main.py usando Python:
-bash
-Copiar código
+
+```sd
 python game/main.py
+```
+
 Cómo Jugar:
 
 El juego te pedirá que ingreses una de las siguientes opciones: piedra, papel o tijera.
