@@ -23,7 +23,7 @@ Ejecuta el script main.py usando Python:
 python game/main.py
 ```
 
-Cómo Jugar:
+# Cómo Jugar:
 
 El juego te pedirá que ingreses una de las siguientes opciones: piedra, papel o tijera.
 Escribe tu elección y presiona Enter.
