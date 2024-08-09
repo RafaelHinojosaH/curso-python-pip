@@ -1,4 +1,4 @@
-#Juego de Piedra, Papel o Tijera
+# Juego de Piedra, Papel o Tijera
 
 Este es un juego simple de Piedra, Papel o Tijera implementado en Python. El usuario juega contra la computadora, y el primero en ganar 2 rondas es declarado ganador.
 
