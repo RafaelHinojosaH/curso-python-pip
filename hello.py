@@ -1,3 +1,1 @@
-print('Hola puerkonas')
-print('Hola Shikita')
-
+print('Hola desde mi maquina')

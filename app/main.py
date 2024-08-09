@@ -4,11 +4,11 @@ import charts
 import pandas as pd
 
 def run():
-  
+  '''
   data = list(filter(lambda item : item['Continent'] == 'South America',data))
   countries = list(map(lambda x: x['Country'], data))
   percentages = list(map(lambda x: x['World Population Percentage'], data))
-  
+  '''
 
   df = pd.read_csv('data.csv')
   df = df[df['Continent'] == 'Africa']
